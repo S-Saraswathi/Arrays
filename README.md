@@ -24,3 +24,23 @@ where each blank panel represents an element of the array. In this case, these a
   int num = arr[9];
   ```
   The above statement will take the 10th element from the array named arr and assign the value to num variable.
+## Outcome of the code
+We try to use array to do some simple tasks like;
+1. Print full array
+2. Find the biggest and the smallest number
+3. Reverse an array
+4. Search for numbers in the array
+5. Sum of all numbers of an array
+## Explainantion
+1. To print the full array </br>
+   We use a for loop to print all the elements of the array
+2. To print the biggest and the smallest value</br>
+   We again use a for loop that runs N times (N=number of elemensts) and use an if statement to find the biggest or smallewst number.
+3. To reverse an array</br>
+   We use another for loop and find the peak vales by comparing an the values of an array with an index before and after the value.
+4. To search for numbers</br>
+   We use another for loop and compare values until we find the required value, if not we print that the vales are not found.
+5. To find sum of all numbers </br>
+   We use for loop and as we move from element to another inside the loop, we add the numbers simultaneously amd print the sum after we reach the last element.
+## Output Screenshot
+![Output SS](image_2023-10-21_191640012.png)
