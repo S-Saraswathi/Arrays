@@ -42,5 +42,3 @@ We try to use array to do some simple tasks like;
    We use another for loop and compare values until we find the required value, if not we print that the vales are not found.
 5. To find sum of all numbers </br>
    We use for loop and as we move from element to another inside the loop, we add the numbers simultaneously amd print the sum after we reach the last element.
-## Output Screenshot
-![Output SS](image_2023-10-21_191640012.png)
